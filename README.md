@@ -54,9 +54,29 @@ ASSIGNMENT-8 (02-02-25)
 - Java Constructors
 - Instance vs. Class Variables
 
-ASSIGNMENT-8  
+ASSIGNMENT-8 (04-02-25)
 CONCEPTS OF :
 - this
 - static
 - final
 - instanceof operator
+
+ASSIGNMENT-9 (06-02-25)
+
+Object Oriented Design Principles
+- Class Diagram
+- Object Diagrams
+- Sequence Diagrams
+
+
+ASSIGNMENT-10 (07-02-25)
+
+- Inheritance
+- Single Level Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
