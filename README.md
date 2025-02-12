@@ -80,3 +80,18 @@ ASSIGNMENT-10 (07-02-25)
 - Constructor Inheritance in Java
 - Polymorphism and Inheritance
 - Access Modifiers and Inheritance
+
+
+ASSIGNMENT-11 (10-02-25)
+
+- Encapsulation
+- Polymorphism 
+- Interface
+- Abstract Classes
+
+
+ASSIGNMENT-11 (10-02-25)
+
+- Single Linked List
+- Double Linked List
+- Circular Linked List
