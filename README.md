@@ -98,3 +98,22 @@ ASSIGNMENT-11 (12-02-25)
 - Single Linked List
 - Double Linked List
 - Circular Linked List
+
+ASSIGNMENT-12 (14-02-25)
+
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Selection Sort
+- Quick Sort  
+- Counting Sort
+
+
+ASSIGNMENT-13 (16-02-25)
+
+- StringBuilder
+- StringBuffer
+- FileReader
+- InputStreamReader
+- Linear Search 
+- Binary Search
